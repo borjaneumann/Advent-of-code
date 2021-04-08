@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Day01 {
+public class Day01_01 {
 
     public static void main(String[] args) throws IOException {
         FileReader fr=new FileReader("day01input.txt");
